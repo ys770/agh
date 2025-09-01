@@ -1,2 +1,15 @@
 ||https://g.tenor.com^
 ||media.tenor.com^
+
+||cbks4.googleapis.com^
+||cbks3.googleapis.com^
+||cbks2.googleapis.com^
+||cbks1.googleapis.com^
+||cbks0.googleapis.com^
+||cbk0.googleapis.com^
+||gz0.googleusercontent.com^
+||karto.static.usercontent.goog^
+||lh3.googleusercontent.com^
+||streetviewpixels-pa.googleapis.com^
+||bc.googleusercontent.com^
+||arvr.google.com^
