@@ -13,3 +13,4 @@
 ||streetviewpixels-pa.googleapis.com^
 ||bc.googleusercontent.com^
 ||arvr.google.com^
+||https://cn-geo1.uber.com^
