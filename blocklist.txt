@@ -1,6 +1,6 @@
 ||https://g.tenor.com^
 ||media.tenor.com^
-
+||ubereats.com^
 ||cbks4.googleapis.com^
 ||cbks3.googleapis.com^
 ||cbks2.googleapis.com^
